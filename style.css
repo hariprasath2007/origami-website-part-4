@@ -1,0 +1,50 @@
+h1{
+
+    color: lightcoral
+    
+    }
+    
+    p{
+    
+    color: darkolivegreen
+    
+    }
+    
+    h2{
+    
+        color:black
+    
+    }
+    
+    h3{
+    
+    color:darkslateblue
+    
+    }
+    
+    *{
+        border:solid;
+    }
+    
+    .header{
+    background-color:lightgreen;
+    display:flex;
+    justify-content: space-between;
+    }
+    
+    .grid{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content: space-evenly;
+    }
+    
+    .footer{
+    display:flex;
+    justify-content: flex-end;
+    
+    }
+    
+    p,h2{
+    text-align: center;
+    
+    }
